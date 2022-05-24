@@ -117,6 +117,29 @@
         "loving"
       ],
       "id": "11"
+    },
+    {
+      "name": "Lenna",
+      "species": "Cat",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Luddy",
+      "species": "cat",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "13"
+    },
+    {
+      "name": "Luddy",
+      "species": "cat",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "14"
     }
   ]
 }
